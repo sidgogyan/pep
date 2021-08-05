@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+
+.content{
+    min-height: 100vh;
+    background-color: white;
+    width: 80%;
+    margin: 40px auto;
+}
+
+.content1{
+    width: 90%;
+    margin: 20px auto;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.content2{
+    color: #03a9f4;
+    width: 90%;
+    margin: 0px auto;
+    line-height: 1.5;
+    text-align: left;
+
+}
+
+.editor{
+     width: 90%;
+    margin: 0px auto;
+    line-height: 1.5;
+    text-align: left; 
+    height:40vh; 
+}
